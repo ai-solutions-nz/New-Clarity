@@ -1,0 +1,2 @@
+Run ID,Actor,Sector,Market,Terms,Start,Finish,Records,Unique,Failed,Cost,Dataset URL,Status
+None,compass/crawler-google-places,All,All,Not run,2026-11-05,2026-11-05,0,0,0,$0,Unknown,BLOCKED: no Apify MCP tool or APIFY_TOKEN in session; api.apify.com CONNECT refused 403 by network policy
