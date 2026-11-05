@@ -1,0 +1,40 @@
+raw_row_index,name,sector,reason
+11,AJ Hackett Auckland Bridge Bungy & Climb,tourism,Large corporate / national brand or manufacturer / retailer
+17,Spirit Of Adventure Trust,tourism,Public/council/charity venue or not a business
+18,Intrepid Travel,tourism,Large corporate / national brand or manufacturer / retailer
+19,Explore Group - Auckland,tourism,Large corporate / national brand or manufacturer / retailer
+56,SZ Servicing Ltd,heatpump_hvac,Large corporate / national brand or manufacturer / retailer
+110,Bathroom Building Company,heatpump_hvac,Off-sector / supplier / manufacturer (not a service business in the target sector)
+117,Octopus Energy NZ,heatpump_hvac,Large corporate / national brand or manufacturer / retailer
+118,Repco Wellington,heatpump_hvac,Large corporate / national brand or manufacturer / retailer
+164,Lyttelton Health Centre,dentist,"Off-sector (GP/medical/vet/dental lab, not a patient-facing dental practice)"
+187,Claudelands Park,tourism,Public/council/charity venue or not a business
+189,Te Whare Taonga o Waikato Museum & Gallery,tourism,Public/council/charity venue or not a business
+202,Claudelands Oval,tourism,Public/council/charity venue or not a business
+203,ibis Hamilton Tainui,tourism,Large corporate / national brand or manufacturer / retailer
+214,Dimond Roofing,roofing,Large corporate / national brand or manufacturer / retailer
+264,Roofing Industries Tauranga,roofing,Large corporate / national brand or manufacturer / retailer
+299,Tauranga isite Visitor Information Centre,tourism,Public/council/charity venue or not a business
+319,Lanark,plumbing,Off-sector / supplier / manufacturer (not a service business in the target sector)
+345,Allans Long Run Roofing,roofing,Off-sector / supplier / manufacturer (not a service business in the target sector)
+369,Napier isite Visitor Information Centre,tourism,Public/council/charity venue or not a business
+381,Everyday Contractors,roofing,Off-sector / supplier / manufacturer (not a service business in the target sector)
+387,Mark Clifford Dental Creations,dentist,"Off-sector (GP/medical/vet/dental lab, not a patient-facing dental practice)"
+390,Taradale Medical Centre,dentist,"Off-sector (GP/medical/vet/dental lab, not a patient-facing dental practice)"
+391,Taradale Cottage Vet Clinic,dentist,"Off-sector (GP/medical/vet/dental lab, not a patient-facing dental practice)"
+392,Real People @ Rowan,dentist,"Off-sector (GP/medical/vet/dental lab, not a patient-facing dental practice)"
+415,Firenzo Woodfires,heatpump_hvac,Off-sector / supplier / manufacturer (not a service business in the target sector)
+418,Bluff Hill Lookout,tourism,Public/council/charity venue or not a business
+434,AA Recreation Tours & Travels Pvt Ltd,tourism,Off-sector / supplier / manufacturer (not a service business in the target sector)
+435,Te Manawa Museum,tourism,Public/council/charity venue or not a business
+452,Roofing Industries (Central) ltd,roofing,Large corporate / national brand or manufacturer / retailer
+476,Mangaone Stream walkway,tourism,Public/council/charity venue or not a business
+477,Stretch Tents Manawatū,tourism,Off-sector / supplier / manufacturer (not a service business in the target sector)
+479,Smartscapes Landscaping,tourism,Off-sector / supplier / manufacturer (not a service business in the target sector)
+494,Fribesco Ltd New Zealand,roofing,Off-sector / supplier / manufacturer (not a service business in the target sector)
+502,Collingwood Street at Dentist,dentist,Public/council/charity venue or not a business
+527,Eurocell Wood Products Limited,roofing,Off-sector / supplier / manufacturer (not a service business in the target sector)
+530,Mico Plumbing Nelson,plumbing,Large corporate / national brand or manufacturer / retailer
+533,Nelson Spa and Pool services.,heatpump_hvac,Off-sector / supplier / manufacturer (not a service business in the target sector)
+534,RV Appliance & Electrical Services Limited,heatpump_hvac,Off-sector / supplier / manufacturer (not a service business in the target sector)
+535,BLUEWATER ELECTRICS SOLAR AND MARINE SERVICES,roofing,Off-sector / supplier / manufacturer (not a service business in the target sector)
