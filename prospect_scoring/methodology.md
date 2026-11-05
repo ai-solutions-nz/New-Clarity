@@ -30,3 +30,6 @@ Dental, orthodontic and denture rows: "Check advertising rules before outreach".
 
 ## Enrichment columns
 site_status, platform, schema_types, faq_on_home, area_links, booking_cta, careers_link, homepage_words, verified, evidence_url (the homepage, else the Google Maps listing).
+
+## Regions
+Added `region` and `region_basis` columns (North/South/East/West/Central/Unclear) from the suburb column, falling back to the street address already in the cleaned data; no re-scrape, scores unchanged. See `region_summary.md`.
